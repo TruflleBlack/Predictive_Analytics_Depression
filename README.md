@@ -127,3 +127,6 @@ Berikut adalah tabel evaluasi dari keempat matriks dari model Adaptive boosting.
 | accuracy     |  0.891608 | 0.891608 | 0.891608 |  0.891608  |
 | macro avg    |  0.945614 | 0.515625 | 0.501546 | 286.000000 |
 | weighted avg |  0.903398 | 0.891608 | 0.843814 | 286.000000 |
+
+### Link Streamlit
+[Dashboard](https://predictiveanalyticsdepression-eruwhwpnappahmgp7fajhwf.streamlit.app/)
